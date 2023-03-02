@@ -6,11 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Nilai</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 </head>
 
 <body>
-    <div>
-        <form>
+    <div class="m-4">
+        <h2>Form Nilai Siswa</h2>
+        <hr>
+
+        <form method="GET" action="proses_nilai.php">
             <div class="form-group row">
                 <label for="nama" class="col-4 col-form-label">Nama</label>
                 <div class="col-8">
