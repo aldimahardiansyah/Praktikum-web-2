@@ -1,9 +1,8 @@
+# Task 1
 
- # Task 1
- ### Buatlah:
- - Fitur Update (mengubah data): Produk dan Pelanggan
- - Fitur Delete (menghapus data): Produk dan Pelanggan
- 
+### Buatlah:
+
+- CRUD pada tabel pembelian dan vendor
+
  Diperbolehkan untuk belajar bersama
  Dilarang copy paste dan melakukan plagiarism
- 
