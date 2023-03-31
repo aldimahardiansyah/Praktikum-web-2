@@ -4,9 +4,8 @@ Task 1
 
 Buatlah:
 
-* Fitur Update (mengubah data): Produk dan Pelanggan
-* Fitur Delete (menghapus data): Produk dan Pelanggan
-
+* CRUD tabel vendor dan pembelian
+* Edit / Update tabel kartu
 
 Diperbolehkan untuk belajar bersama
 
