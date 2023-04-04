@@ -1,0 +1,20 @@
+* Tampilan pengunjung (pakai template):
+1. Pengunjung mengunjungi web
+2. Web menampilkan daftar produk yang dijual (sesuai isi dari tabel produk)
+3. Semua produk memiliki gambar yang sama (tidak perlu menambahkan fungsi upload gambar)
+4. pengunjung bisa meng-klik `Beli`
+5. Setelah klik beli, pengunjung harus mengisi form: quantity (berapa banyak produk yg dibeli), alamat, total harga(harga jual produk * quantity)
+6. Data pesanan disimpan ke tabel pesanan. field `tanggal` diisi dengan tanggal saat ini (cari di internet: cara mendapatkan tanggal saat ini di php)
+6. Pengunjung diperlihatkan info pesanan (Nama produk, harga satuan produk, jumlah beli (quantity), total harga, alamat)
+
+* Buat tampilan untuk dashboard admin (Pakai template admin, contoh: adminLTE. GPP tanpa login). Isi menu:
+1. Pesanan (Read table pesanan)
+2. Produk (CRUD table produk)
+3. User (CRUD table user)
+
+NOTE: 
+1. DILARANG KERAS PLAGIAT!
+2. Push ke repository yang baru, buat visibilitasnya private.
+3. Invite akun github saya: `aldimahardiansyah` sebagai collaborator di reponya.
+4. Deadline: 15 Mei 2023 pukul 23:59 WIB.
+5. Menggunakan database yang saya kirim di group.
