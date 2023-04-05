@@ -2,9 +2,10 @@
 1. Pengunjung mengunjungi web
 2. Web menampilkan daftar produk yang dijual (sesuai isi dari tabel produk)
 3. Semua produk memiliki gambar yang sama (tidak perlu menambahkan fungsi upload gambar)
-4. pengunjung bisa meng-klik `Beli`
-5. Setelah klik beli, pengunjung harus mengisi form: quantity (berapa banyak produk yg dibeli), alamat, total harga(harga jual produk * quantity)
-6. Data pesanan disimpan ke tabel pesanan. field `tanggal` diisi dengan tanggal saat ini (cari di internet: cara mendapatkan tanggal saat ini di php)
+4. pengunjung bisa meng-klik produk untuk ditampilkan detail produk
+5. pada halaman detail produk, terdapat tombol `beli`
+5. Setelah klik beli, pengunjung harus mengisi form: quantity (berapa banyak produk yg dibeli), nama, alamat
+6. Data pesanan disimpan ke tabel pesanan. field `tanggal` diisi dengan tanggal saat ini (cari di internet: cara mendapatkan tanggal saat ini di php), field `total harga` diisi dengan harga produk di kali qty
 6. Pengunjung diperlihatkan info pesanan (Nama produk, harga satuan produk, jumlah beli (quantity), total harga, alamat)
 
 * Buat tampilan untuk dashboard admin (Pakai template admin, contoh: adminLTE. GPP tanpa login). Isi menu:
